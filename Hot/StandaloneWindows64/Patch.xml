@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pathces xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <Files Name="mainpanel" Url="http://192.168.1.13:8080/AssetBundle/1.0/1/mainpanel" Platform="StandaloneWindows64" Md5="63cfafa313d193b294b64f55fa4fda7d" Size="374.572266" />
+  <Files Name="StandaloneWindows64" Url="http://192.168.1.13:8080/AssetBundle/1.0/1/StandaloneWindows64" Platform="StandaloneWindows64" Md5="04b2191eb68d90fae3439a0b0da76e56" Size="2.08789063" />
+</Pathces>
